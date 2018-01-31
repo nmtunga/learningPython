@@ -1,6 +1,11 @@
 # This program prints Hello, World!
 
-print('Hello, World!')
+
+def main(msg):
+    print(msg)
+
+
+main('Hello people of the World!')
 
 num = 521
 
