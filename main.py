@@ -7,7 +7,7 @@ def main(msg):
 
 main('Hello people of the World!')
 
-num = 521
+num = 577
 
 if num > 1:
     for i in range(2,num):
